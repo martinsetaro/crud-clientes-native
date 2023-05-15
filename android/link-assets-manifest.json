@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/WixBold.ttf",
+      "sha1": "cd9f259115eae64d257065c6f7c4514e880deadb"
+    },
+    {
+      "path": "src/assets/fonts/WixExtraBold.ttf",
+      "sha1": "274277c4c1af025c687d37b178d45c5e4f9246a7"
+    },
+    {
+      "path": "src/assets/fonts/WixMedium.ttf",
+      "sha1": "901a988a998a9bd36260cda1ee077fb75995529a"
+    },
+    {
+      "path": "src/assets/fonts/WixRegular.ttf",
+      "sha1": "7c4b6390e8a5ed03718d6e6d40f8b5db79969dc0"
+    },
+    {
+      "path": "src/assets/fonts/WixSemiBold.ttf",
+      "sha1": "2e34504a2a553e11976b219b2df1aa0e092b03aa"
+    }
+  ]
+}
