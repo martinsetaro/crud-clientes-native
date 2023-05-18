@@ -39,6 +39,7 @@ const globalStyle = {
         shadowRadius:2.62,
         elevation:4,
         
+        
     },
     titulo:{
       textAlign:'center',

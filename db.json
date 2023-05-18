@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "cliente visible",
+      "telefono": "6565464",
+      "email": "iajsdsd",
+      "empresa": "pepito",
+      "id": 5
+    },
+    {
+      "nombre": "jose arreglado",
+      "telefono": "454545",
+      "email": "joseagregadogmail",
+      "empresa": "detechos",
+      "id": 6
+    },
+    {
+      "nombre": "jose agregado",
+      "telefono": "66622121",
+      "email": "Gdvhhg@xvg.com",
+      "empresa": "agistral",
+      "id": 7
+    },
+    {
+      "nombre": "cliente refresh",
+      "telefono": "45622125",
+      "email": "refresh mycorreo.com",
+      "empresa": "la empresa",
+      "id": 9
+    }
+  ]
+}

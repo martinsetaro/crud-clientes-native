@@ -48,7 +48,7 @@ const registarCliente = ()=>{
 
     return (
   
-
+      <View style={style.contenedor}>
         <Animated.View
         style={{ transform: [{ scale: animacion }] }}
         >
@@ -66,6 +66,7 @@ const registarCliente = ()=>{
             </Text>
         </Pressable>
       </Animated.View>
+      </View>
     );
   }
 
@@ -83,6 +84,11 @@ const style = StyleSheet.create({
         color:'#fff',
         fontSize:30,
         marginRight:20
+    },
+    contenedor:{
+     
+        height:150,
+        marginBottom:20
     }
 
 })
